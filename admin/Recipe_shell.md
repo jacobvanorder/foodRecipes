@@ -1,11 +1,12 @@
-Recipe Title
-===
+# Recipe Title
 
 [Link](http://www.somelink.com)
 
-Ingredients
----
+## Ingredients ##
 
-Instructions
----
+## Instructions
+
+### Notes
+
+#### References
 
